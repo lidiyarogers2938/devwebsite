@@ -8,7 +8,7 @@ Here's our logo (hover to see the title text):
 Inline-style: 
 ![penguin](penguin.jpeg " this is a penguin") 
 
-
+![bird](bird.jpeg "this is a bird")
 
 ## Installation
 
