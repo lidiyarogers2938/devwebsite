@@ -6,12 +6,9 @@ Hello This Is A Super Cool Website
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![penguin](penguin.jpeg" this is a penguin) 
+![penguin](penguin.jpeg " this is a penguin") 
 
-Reference-style: 
-![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 ## Installation
 
