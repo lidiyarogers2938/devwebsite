@@ -3,7 +3,7 @@
 
 Hello This Is A Super Cool Website
 
-Here's our logo (hover to see the title text):
+Here's our logo (this is my logo):
 
 Inline-style: 
 ![penguin](penguin.jpeg " this is a penguin") 
